@@ -11,5 +11,5 @@ jobs:
         env:
           PAGES_BRANCH: gh-pages
           BUILD_DIR: .
-          TOKEN: ${{ secrets.PUBLIC_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
           REPOSITORY: akiacode/blog
