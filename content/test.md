@@ -1,5 +1,5 @@
 +++
-title = "테스트2Test" date = 01-01-01
+title = "테스트2Test"
 [taxonomies] categories = ["Hello world"]
 +++
 TEST 테스트 테스트 테스트
